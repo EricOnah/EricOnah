@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://ericonah.github.io/portfoliodesign.github.io/#about](https://ericonah.github.io/portfoliodesign.github.io/#about)
 
-- ⚡ Fun fact ***console.lo("Hello world"): think I'm a God 😉**
+- ⚡ Fun fact ***console.log("Hello world") first god feeling 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
