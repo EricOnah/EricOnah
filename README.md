@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Onah</h1>
-<h3 align="center">Passionate full-stack developer with hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end technologies. Lover of JavaScript now learning PHP</h3>
+<h3 align="center">Passionate full-stack developer with hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericonah&label=Profile%20views&color=0e75b6&style=flat" alt="ericonah" /> </p>
 
