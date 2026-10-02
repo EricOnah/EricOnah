@@ -1,6 +1,6 @@
 # Hi, I'm Eric Onah 👋
 
-### Full-Stack Developer | WordPress & WooCommerce Specialist
+### Full-Stack Developer | WordPress & Shopify Specialist
 
 I'm a Full-Stack Developer with 8+ years of experience building scalable web applications, enterprise websites, e-commerce platforms, and custom digital solutions.
 
